@@ -4,7 +4,6 @@ body * {
     padding: 0%;
     vertical-align: top;
     box-sizing: border-box;
-    background-color: yellow;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 container {
@@ -16,8 +15,26 @@ margin-top: 100px;
 .left-column{
     float: left;
     width: 40%;
-    background-color: aqua;
+    background-color: #6881bc;
     padding: 40px;
+    color: aliceblue;
+
+}
+.main-title {
+    width:100%;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 200px;
+
+}
+.bottom-links{
+   
+    
+}
+.bottom-links > .link{
+    color: aliceblue;
+    text-decoration: none;
 
 }
 
