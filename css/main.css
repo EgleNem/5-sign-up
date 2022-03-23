@@ -16,8 +16,12 @@ margin-top: 100px;
     float: left;
     width: 40%;
     background-color: #6881bc;
+    background-image: url(../img/hill.png);
     padding: 40px;
     color: aliceblue;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
 
 }
 .main-title {
